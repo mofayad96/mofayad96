@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fayad</h1>
-<h3 align="center">A passionate CyberSecurity student from Egypt</h3>
+<h3 align="center">A passionate DevOps student from Egypt</h3>
 
 - 🌱 I’m currently learning **node js**
 
