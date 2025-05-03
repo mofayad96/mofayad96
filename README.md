@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fayad</h1>
 <h3 align="center">A passionate Computing and Data Science student from Egypt, aspiring Java Spring Backend Developer</h3>
 
-- 🌱 I’m currently learning **AWS Cloud Computing** and **Java Spring**.
-- 💬 Ask me about **Java**, **JavaScript**, and **AWS**.
+- 🌱 I’m currently learning **DEVOPS tools** and **Spring BOOT**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
